@@ -182,7 +182,7 @@
         "@vscode/test-web": "^0.0.78",
         "@vscode/vsce": "^3.2.2",
         "chai": "^6.2.2",
-        "eslint": "^9.18.0",
+        "eslint": "^10.1.0",
         "mocha": "^11.7.5",
         "prettier": "^3.4.2",
         "webpack": "^5.97.1",
